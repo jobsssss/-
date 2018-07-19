@@ -610,3 +610,7 @@ function make_word($name, $html_content)
 
 **__callStatic**
 定义`__callStatic`后，被静态访问的方法权限要是不可外部访问的才会执行
+
+
+** linux设置时区**
+``timedatectl set-timezone "Asia/Shanghai"``
